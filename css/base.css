@@ -36,6 +36,7 @@ ol {
 
 .bg-dark {
     background-color: rgb(0, 0, 0);
+    min-height: 110vh;
 }
 
 .bg-image-1 {
