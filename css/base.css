@@ -40,12 +40,13 @@ ol {
 }
 
 .bg-image-1 {
-    background-image: linear-gradient(rgba(0, 0, 0, .3),rgba(0, 0, 0, .6)),
+    background-image: linear-gradient(rgba(0, 0, 0, .6),rgba(0, 0, 0, .6)),
     url(../img/header-O-que-é-Inteligência-Artificial-e-quais-as-suas-aplicações.jpg);
 }
 
+
 .bg-image-2 {
-    background-image: url(../img/wp4820378.webp);
+    background-image: url(../img/crotopus.jpg);
 }
 
 .arrow {
